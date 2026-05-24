@@ -1,0 +1,34 @@
+{
+  "id": "multi_table_manage_crud_agg_analysis_1",
+  "pluginKey": "@official-plugins/feishu-bitable",
+  "pluginVersion": "1.0.18",
+  "name": "活动精彩瞬间",
+  "description": "管理飞书多维表格，支持数据的创建、查询、更新、删除、聚合分析",
+  "icon": "https://lf3-static.bytednsdoc.com/obj/eden-cn/fzgeh7nuhfboznulog/bitable.svg",
+  "paramsSchema": {},
+  "formValue": {
+    "fields": [
+      {
+        "bizType": "Text",
+        "id": "fld31ekAR5",
+        "readable": true,
+        "writeable": true,
+        "name": "活动名称",
+        "type": 1
+      },
+      {
+        "name": "精彩瞬间",
+        "type": 17,
+        "bizType": "Attachment",
+        "id": "fldpIbjk7L",
+        "readable": true,
+        "writeable": true
+      }
+    ],
+    "tableID": "tblA4srYfHbCXz7J",
+    "appToken": "TJWNbeFlQa4b8dsrdQDcX6Uxn5b"
+  },
+  "createdAt": 1775112730066,
+  "updatedAt": 1775113480276,
+  "createdBy": 7596911540738051032
+}
